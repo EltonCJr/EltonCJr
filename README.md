@@ -15,7 +15,7 @@ Mestre pelo Programa de Pós-Graduação em Informática (PPGI) da Universidade 
 </div>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonCJr&hide_progress=true" width="415">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonCJr&layout=compact" width="415">
   <img src="https://github-readme-stats.vercel.app/api?username=EltonCJr&theme=vision-friendly-dark&show_icons=true" width="415" />
 </p>
 
